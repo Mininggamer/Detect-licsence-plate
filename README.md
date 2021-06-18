@@ -10,9 +10,11 @@
 ![plot](Imple/sobel.jpg)
 
 - Sau đó lấy ngưỡng thresh hold rồi close lại ta được:
+
 ![plot](Imple/close.jpg)
 
 - Bây giờ lấy contour và giới hạn các giá trị của contour ta sẽ được biển số cần tìm:
+
 ![plot][Imple/crop.jpg]
 
 # Dưới đây là giao diện của app:
