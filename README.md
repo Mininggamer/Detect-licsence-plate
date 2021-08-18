@@ -15,7 +15,7 @@
 
 - Bây giờ lấy contour và giới hạn các giá trị của contour ta sẽ được biển số cần tìm:
 
-![plot][Imple/crop.jpg]
+![plot](Imple/crop.jpg)
 
 # Dưới đây là giao diện của app:
 
